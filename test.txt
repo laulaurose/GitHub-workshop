@@ -1,0 +1,1 @@
+tjek hvad der sker hvis jeg bare bruger mv i stedet for git mv
